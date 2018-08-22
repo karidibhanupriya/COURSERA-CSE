@@ -24,6 +24,7 @@ h1 {
 
 #Html {
   background-color: #ffb3b3;
+  color: white;
 }
 
 #Css {
@@ -31,8 +32,9 @@ h1 {
   color: white;
 }
 
-#Javascript{
+#Javascript {
   background-color: #ffff99;
+  color: white;
 }
 
 .row {
